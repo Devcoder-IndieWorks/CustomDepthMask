@@ -96,5 +96,5 @@ UV 좌표에 대한 값도 Custom Node에 Shader Code를 작성해서 구한다.
 
 이 Blueprint Actor가 BP_CgMaskCaptureCompElement Actor이다. 이 Actor에 마스킹 영역을 구하기 위해 서로 관련이 있는 Level Object 목록이 주어지면, 현재 카메라 위치와 마스킹 영역을 나타내는 오브젝트 사이에 존재하는 Level Object들만 추려서 캡쳐 목록을 다시 만들어 SceneCaptureComponent를 통해 캡쳐해서 원하는 마스킹 영역을 구한다.
 
-![](https://github.com/Devcoder-IndieWorks/CustomDepthMask/blob/master/ScreenShots/Msking_Result.png)
+![](https://github.com/Devcoder-IndieWorks/CustomDepthMask/blob/master/ScreenShots/Masking_Result.png)
 
