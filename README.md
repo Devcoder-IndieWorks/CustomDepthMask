@@ -4,7 +4,7 @@
 
 ### 개요
 
-![](https://github.com/Devcoder-IndieWorks/CustomDepthMask/blob/master/ScreenShots/CustomDepth_기반_Masking_회면.png)
+![](https://github.com/Devcoder-IndieWorks/CustomDepthMask/blob/master/ScreenShots/CustomDepth_Masking_Scene.png)
 
 빨간 박스 영역내 검은색으로 된 부분이 UE4 CustomDepth 기능을 이용하여 전체 씬 영역에서 마스킹 영역으로 사용할 부분을 만들 것이다.
 
